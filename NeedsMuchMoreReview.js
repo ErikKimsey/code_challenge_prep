@@ -1,4 +1,10 @@
 /**
+ * All of the following are provided at:
+ * https://gist.github.com/lalkmim/e04845eb9d1c5936622a
+ * These items are some I particularly needed review for.
+ */
+
+/**
  * Binary Gap
  * https://app.codility.com/demo/results/trainingU2FQPQ-7Y4/
  * 
@@ -45,7 +51,7 @@
  */
 
 /**
-  * HURT YOURSELF:
+  * I MIGHT HURT MYSELF (i.e., injure my pride and confidence):
   * 
     - Alpha2010 - PrefixSet - https://codility.com/demo/results/trainingMACGW7-JXB/
     - Beta 2010 - NumberOfDiscIntersections - https://codility.com/demo/results/trainingDQZTYA-ZGD/
