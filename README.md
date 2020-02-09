@@ -1,2 +1,2 @@
 
-!()[https://imgur.com/hDA1G9R]
+[Imgur](https://i.imgur.com/hDA1G9R.gifv)
